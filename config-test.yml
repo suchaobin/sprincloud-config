@@ -1,0 +1,6 @@
+spring:
+  profiles: test
+  application:
+    name: config-server-test
+config:
+  info: config info test
