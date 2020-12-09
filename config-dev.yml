@@ -1,1 +1,7 @@
-name: 我是dev
+spring:
+  profiles: dev
+  application:
+    name: config-server-dev
+
+config:
+  info: config info dev
