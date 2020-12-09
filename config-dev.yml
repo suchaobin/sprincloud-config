@@ -4,4 +4,4 @@ spring:
     name: config-server-dev
 
 config:
-  info: config info dev version 3
+  info: config info dev version 4
